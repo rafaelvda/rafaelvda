@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm writing this in English in order to impress you 
+I'm writing this in English in order to impress you 😉
+
+📫 How to reach me: 
+
+- Email : rafaelvmico@gmail.com
+- Discord : Papichou (yes) #8139
