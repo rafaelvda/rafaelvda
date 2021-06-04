@@ -28,7 +28,7 @@ I'm writing this in English in order to impress you 😉
 
 🌱 Currently learning Symfony to improve my skills in PHP and Flutter as well so I can develop cross-platform application with Dart
 
-📫 How to reach me
+📫 Contact
 
 - Email : rafaelvmico@gmail.com
 - Discord : Papichou (yes) #8139
