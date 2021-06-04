@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm writing this in English in order to impress you 😉
 
-💻 Languages and technologies
+###💻 Languages and technologies
 
 - Java
 - PHP
