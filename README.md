@@ -28,7 +28,7 @@ I'm writing this in English in order to impress you 😉
 
 ### 🌱 Learning process
 
-Currently learning Symfony to improve my skills in PHP and Flutter as well so I can develop cross-platform application with Dart 📱🖥
+Currently learning Symfony to improve my skills in PHP and Flutter as well so I can develop cross-platform application with Dart 📱
 
 ### 📫 Contact
 
