@@ -30,5 +30,6 @@ I'm writing this in English in order to impress you 😉
 
 📫 Contact
 
+- LinkedIn : Rafael MICO
 - Email : rafaelvmico@gmail.com
 - Discord : Papichou (yes) #8139
