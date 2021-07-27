@@ -34,4 +34,4 @@ Currently learning Symfony to improve my skills in PHP and Flutter as well so I 
 
 - LinkedIn : Rafael MICO
 - Email : rafaelvmico@gmail.com
-- Discord : Papichou (yes) #8139
+- Discord : Papi (yes) #2771
