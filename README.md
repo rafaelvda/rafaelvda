@@ -32,7 +32,7 @@ Currently learning Symfony to improve my skills in PHP and Flutter as well so I 
 
 ### 🤔 Job
 
-As a working student I'm searching a job in development or in data to pass my bachelor's degree at CNAM University 👨🏻‍🎓
+As a working student I'm searching a job in Development or in Data to pass my bachelor's degree at CNAM University 👨🏻‍🎓
 
 ### 📫 Contact
 
