@@ -28,11 +28,11 @@ I'm writing this in English in order to impress you 😉
 
 ### 🤔 Job
 
-As a working student I'm searching a job in Development or in Data to pass my bachelor's degree at CNAM University 👨🏻‍🎓
+I work as a Mobile Developer to pass my bachelor's degree at CNAM University 👨🏻‍🎓
 
 ### 🌱 Learning process
 
-Currently learning Symfony to improve my skills in PHP and Flutter as well so I can develop cross-platform application with Dart 📱
+Currently learning Flutter so I can develop cross-platform application with Dart 📱 and very soon Swift for IOS !
 
 ### 📫 Contact
 
