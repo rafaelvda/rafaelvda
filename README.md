@@ -26,13 +26,13 @@ I'm writing this in English in order to impress you 😉
 - Laravel
 - VueJs
 
-### 🤔 Job
+### 👨🏻‍💻 Job and degree
 
-I work as a Mobile Developer to pass my bachelor's degree at CNAM University 👨🏻‍🎓
+I work as a Mobile Developer to pass my bachelor's degree at CNAM 👨🏻‍🎓
 
 ### 🌱 Learning process
 
-Currently learning Flutter so I can develop cross-platform application with Dart 📱 and very soon Swift for IOS !
+  Soon learning Swift for IOS📱 and even sooner Android !
 
 ### 📫 Contact
 
