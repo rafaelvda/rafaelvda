@@ -32,7 +32,7 @@ I work as a Mobile Developer to pass my bachelor's degree at CNAM 👨🏻‍�
 
 ### 🌱 Learning process
 
-  Soon learning Swift for IOS📱 and even sooner Android !
+  Currently learning Flutter to build cross-platform applications with Dart 📱
 
 ### 📫 Contact
 
