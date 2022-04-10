@@ -19,16 +19,19 @@ I'm writing this in English in order to impress you 😉
 
 ### 💻 Languages and technologies
 
+- Flutter - Dart
 - Java
 - PHP
 - SQL
-- HTML/CSS
+- HTML - CSS
 - Laravel
 - VueJs
 
 ### 👨🏻‍💻 Job and degree
 
 I work as a Mobile Developer to pass my bachelor's degree at CNAM 👨🏻‍🎓
+
+Soon I'll become an engineer in the same school ! 🎓
 
 ### 🌱 Learning process
 
