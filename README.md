@@ -1,4 +1,4 @@
-### Hey guys 👋
+### Hello there 👋
 
 <!--
 **rafaelvda/rafaelvda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm writing this in English in order to impress you 😉
+I'm writing this in english in order to be more professional 😉
 
 ### 💻 Languages and technologies
 
+- Swift - SwiftUI [loading...]
 - Flutter - Dart
 - Java
 - PHP
@@ -29,13 +30,11 @@ I'm writing this in English in order to impress you 😉
 
 ### 👨🏻‍💻 Job and degree
 
-I work as a Mobile Developer to pass my bachelor's degree at CNAM 👨🏻‍🎓
-
-Soon I'll become an engineer in the same school ! 🎓
+I work as an iOS Developer 👨🏻‍💻 to pass my engineering degree at EICNAM 👨🏻‍🎓
 
 ### 🌱 Learning process
 
-  Currently learning Flutter to build cross-platform applications with Dart 📱
+Currently learning Swift, SwiftUI and more to build iOS applications 📱
 
 ### 📫 Contact
 
