@@ -1,4 +1,4 @@
-### Hello there 👋
+### Greetings 👋
 
 <!--
 **rafaelvda/rafaelvda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,29 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm writing this in english in order to be more professional 😉
-
 ### 💻 Languages and technologies
 
-- Swift - SwiftUI [loading...]
+# Mobile :
+- Swift - SwiftUI
 - Flutter - Dart
-- Java
-- PHP
-- SQL
+
+# Web :
 - HTML - CSS
-- Laravel
-- VueJs
+- PHP - SQL
 
 ### 👨🏻‍💻 Job and degree
 
-I work as an iOS Developer 👨🏻‍💻 to pass my engineering degree at EICNAM 👨🏻‍🎓
+I work as an iOS Developer 👨🏻‍💻 and I'm passing an engineering degree at EICNAM 👨🏻‍🎓
 
 ### 🌱 Learning process
 
-Currently learning Swift, SwiftUI and more to build iOS applications 📱
+Currently learning Swift, SwiftUI and more to build iOS applications 📱 and soon visionOS 👀
 
 ### 📫 Contact
 
 - LinkedIn : Rafael MICO
 - Email : rafaelvmico@gmail.com
-- Discord : Papi #2771
+- Discord : rafael_vda
