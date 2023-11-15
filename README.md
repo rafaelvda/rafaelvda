@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 💻 Languages and technologies
 
-# Mobile :
+#### Mobile :
 - Swift - SwiftUI
 - Flutter - Dart
 
-# Web :
+#### Web :
 - HTML - CSS
 - PHP - SQL
 
